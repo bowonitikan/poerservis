@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 export default function Home() {
   const router = useRouter();
 
-  const storeWhatsApp = "6281234567890"; // Ganti dengan nomor WA Anda
+  const storeWhatsApp = "6287881545501"; // Ganti dengan nomor WA Anda
   const waMessage = encodeURIComponent("Halo Eranitikan Servis, saya ingin konsultasi mengenai perbaikan perangkat saya.");
 
   return (
